@@ -20,7 +20,7 @@ struct ContentView: View {
                 .aspectRatio(contentMode: .fit)
                 .foregroundColor(Color.pink)
                 .padding(.horizontal)
-                
+                Text("hey")
                 
                 
                 
